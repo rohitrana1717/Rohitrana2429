@@ -17,9 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohitrana24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitrana24" height="30" width="40" /></a>
 <a href="https://instagram.com/rohitrana__17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitrana__17" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kaliii24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kaliii24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitrana2429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrana2429" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rohitrana2429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitrana2429" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
