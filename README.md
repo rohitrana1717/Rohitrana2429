@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Rana</h1>
 <h3 align="center">I am</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-typing-big-brained-busy-sweating-gif-17808553&psig=AOvVaw2iseSQqyJE92Vgufs87dum&ust=1684597105944000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCKDIhrPbgf8CFQAAAAAdAAAAABAL" alt="Coding" width="400" >
+<img align="right" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif" alt="Coding" width="400" >
 - 🔭 I’m currently working on **Blockchain , mern stack**
 
 - 🌱 I’m currently learning **Web 3.O**
