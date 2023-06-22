@@ -5,7 +5,9 @@
 <h3 align="center">I am a Developer and Content Creator 👩‍💻✍</h3>
 
 ###
-
+###
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+###
 <h3 align="left">- 🔭 I’m currently working on Blockchain , mern stack<br><br>- 🌱 I’m currently learning  Web 3.O<br><br>- 💬 Ask me about Blockchain,web development</h3>
 
 ###
@@ -73,7 +75,7 @@
 
 ###
 
-<p align="left">Others</p>
+<h2 align="left">Others</h2>
 
 ###
 
