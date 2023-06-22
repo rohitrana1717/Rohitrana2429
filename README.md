@@ -5,8 +5,8 @@
 <h3 align="center">I am a Developer and Content Creator 👩‍💻✍</h3>
 
 ###
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
-<p align="left">- 🔭 I’m currently working on Blockchain , mern stack<br><br>- 🌱 I’m currently learning  Web 3.O<br><br>- 💬 Ask me about Blockchain,web development</p>
+
+<h3 align="left">- 🔭 I’m currently working on Blockchain , mern stack<br><br>- 🌱 I’m currently learning  Web 3.O<br><br>- 💬 Ask me about Blockchain,web development</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Programming Languages</p>
+<h2 align="left">Programming Languages</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">Frontend Development and Backend Development</p>
+<h2 align="left">Frontend Development and Backend Development</h2>
 
 ###
 
@@ -95,8 +95,13 @@
 
 ###
 
+<h2 align="left">GitHub Stats:</h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitrana2429&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitrana2429&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
